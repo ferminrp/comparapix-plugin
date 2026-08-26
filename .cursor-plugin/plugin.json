@@ -1,0 +1,12 @@
+{
+  "name": "comparapix",
+  "displayName": "ComparaPix",
+  "version": "1.0.0",
+  "description": "Cotizaciones PIX en vivo Argentina–Brasil: mejor tasa, comparativa y calculadora. MCP público sin auth.",
+  "author": {
+    "name": "Fermin Rodriguez Penelas",
+    "email": "comparapix@ferminrp.com"
+  },
+  "license": "MIT",
+  "keywords": ["pix", "argentina", "brasil", "cotizaciones", "mcp"]
+}
