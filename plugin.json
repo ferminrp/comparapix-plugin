@@ -1,10 +1,11 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "comparapix",
-  "description": "Cotizaciones PIX en vivo Argentina–Brasil: mejor tasa, comparativa y calculadora.",
+  "description": "Cotizaciones PIX en vivo Argentina\u2013Brasil: mejor tasa, comparativa y calculadora.",
   "version": "1.0.0",
   "author": {
     "name": "Fermin Rodriguez Penelas",
     "email": "comparapix@ferminrp.com"
-  }
+  },
+  "logo": "assets/logo.png"
 }
