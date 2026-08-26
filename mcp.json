@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "comparapix": {
+      "url": "https://api.comparapix.ar/mcp"
+    }
+  }
+}
